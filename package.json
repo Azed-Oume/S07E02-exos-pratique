@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "s07e02-pratiques-azed-oume",
+  "description": "En 2010, avec deux amis, Maguy décide de créer un club d'échecs dans son village.\r Pour garder une trace de toutes les parties, elle note tout dans des fichiers javascript.",
+  "version": "1.0.0",
+  "main": "node-dev app.js",
+  "scripts": {
+    "start": "node-dev app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-dev": "^8.0.0"
+  }
+}
